@@ -29,4 +29,4 @@ def test_practise_5_6_my_overlap():
 
 from HW_5_Dovbysh import my_max_in_list
 def test_HW_5_my_max_in_list():
-    assert my_max_in_list([1,5,10,6]) == 10 'Should be 10'
+    assert my_max_in_list([1,5,10,6]) == 10, 'Should be 10'
